@@ -15,11 +15,13 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Websites
 
-*Websites you should use to learn classic algorithms*
+*Websites you should use to learn classic algorithms* **especially these are for visual aid, to supplement other things**
 
-* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
-* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
-* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
+* **[Will Thimbleby's Algorithm Visuals](http://will.thimbleby.net/algorithms/doku.php)**
+* **[A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work**
+* **[Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.**
+* **[Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.**
+
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
